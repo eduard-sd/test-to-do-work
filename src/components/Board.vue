@@ -164,7 +164,6 @@ export default {
 
 <style lang="sass">
     .container
-        position: relative
         display: flex
         align-items: center
         width: 100%
